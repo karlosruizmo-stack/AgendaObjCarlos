@@ -51,5 +51,8 @@ public class Agenda {
         }
         System.out.println("No existe");
     }
+
+    public void agregar(Contacto contacto) {
+    }
 }
 

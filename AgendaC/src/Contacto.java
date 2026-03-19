@@ -10,6 +10,10 @@ public class Contacto {
         this.correo = correo;
     }
 
+    public Contacto(String nombre, String tel) {
+
+    }
+
     public String getNombre() {
         return nombre;
     }
